@@ -1,4 +1,4 @@
-# CodeAlpha_Simplestorage
+# CodeAlpha_SimpleStorage
 Simple Storage Smart Contract using Solidity for CodeAlpha Blockchain Development Internship.
 Features:
 - Store an integer value
